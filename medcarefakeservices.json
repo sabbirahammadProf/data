@@ -1,0 +1,8 @@
+[
+    {"service_id": 1, "service_title": "Emergency Room", "service_description": "Our emergency room is an certfied as the best for emergency support", "service_image": "https://i.ibb.co/ykYwX4f/service1.jpg"},
+    {"service_id": 2, "service_title": "Orthopedics", "service_description": "Bone and joint problem? Don't worry, we alawys with you to help you", "service_image": "https://i.ibb.co/RT3yCSm/service2.jpg"},
+    {"service_id": 3, "service_title": "Cancer care", "service_description": "If you need a doctor for cancer care you can call us because we have cancer specialist.", "service_image": "https://i.ibb.co/99PnXpX/service3.jpg"},
+    {"service_id": 4, "service_title": "Lab test", "service_description": "Our all tests are tested in lab. Our experts doctor's test in lab for patients.", "service_image": "https://i.ibb.co/GQzCkk6/service4.jpg"},
+    {"service_id": 5, "service_title": "Online help", "service_description": "We provide online help for our patients with offline", "service_image": "https://i.ibb.co/sHZfryP/service5.jpg"},
+    {"service_id": 6, "service_title": "Helicopter support", "service_description": "If any patients fall in problem with vehicles, we provide helicopter support", "service_image": "https://i.ibb.co/z8rSCF5/service6.jpg"}
+]
